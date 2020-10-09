@@ -15,7 +15,7 @@ def verify(guess):
         57,
         50,
         54,
-    ]
+    ]  l
 
     if len(guess) != 13:
         return False
